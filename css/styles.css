@@ -1,0 +1,58 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 100px;
+}
+
+.low-cloud {
+  position: absolute;
+}
+
+h1 {
+  width: 10%;
+  color: #11999e;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profilephoto {
+  width: 200px;
+}
+
+.Hiking {
+  width: 200px;
+}
+
+.codeplat {
+  width: 300px;
+}
+
+.contact {
+  width: 150px
+}
+
+.hiking {
+  width: 200px
+}
